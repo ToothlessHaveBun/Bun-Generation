@@ -11,5 +11,3 @@
 # Author
 
 **Bun Generation** &copy; 磅豆龙, Released under the [MIT](LICENSE) License.
-
-###### [Buntalk Universe](https://www.setbun.com) · GitHub @[FrederickBun](https://github.com/FrederickBun) · Twitter @[FrederickAsYou](https://x.com/FrederickAsYou)
